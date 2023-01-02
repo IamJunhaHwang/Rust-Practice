@@ -16,7 +16,9 @@ Korean Annotated Rust beginner code
 
 소스 코드 파일로 `main.rs` 파일만 업로드 하며 `dependencies`가 존재할 경우 이를 소스코드 상에 주석으로 남깁니다.
 
-- TBD
+Rust 빌드 및 패키지 매니저 Cargo에 대한 설명은 [이 글](https://rinthel.github.io/rust-lang-book-ko/ch01-03-hello-cargo.html)을 참고하면 됩니다.
+
+- `1_Intro`: 간단한 입출력 예문들 [Hello World]
 
 
 --------

@@ -12,8 +12,11 @@ fn main() {
     let d = 15_i32;
 
     let e = add(add(a,b), add(c, d));
+    
+    let one_million:i64 = 1_000_000;  // 밑줄은 가독성을 높여주는 용도이며 컴파일러는 무시함.
 
     println!("a+b+c+d = {}", e);
+    println!("{}", one_million.pow(2));  // 숫자는 메소드를 가진다. [pow(one_million, 2)가 아님]
 }
 
 fn add(i:i32, j:i32) ->i32{  // 함수 정의에 타입 선언은 반드시 필요, ->표시는 반환 타입을 나타낸다.

@@ -19,6 +19,7 @@ Korean Annotated Rust beginner code
 Rust 빌드 및 패키지 매니저 Cargo에 대한 설명은 [이 글](https://rinthel.github.io/rust-lang-book-ko/ch01-03-hello-cargo.html)을 참고하면 됩니다.
 
 - `1_Intro`: 간단한 입출력 예문들 [Hello World]
+- `2_Types`: 러스트의 변수 타입들 
 
 
 --------

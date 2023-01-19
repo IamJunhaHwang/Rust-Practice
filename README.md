@@ -24,6 +24,8 @@ Rust 빌드 및 패키지 매니저 Cargo에 대한 설명은 [이 글](https://
 - `4_Iteration`: 러스트에서의 반복문
 - `5_Reference`: 러스트에서의 참조
 - `6_Generic`: 제네릭 함수
+- `7_Strings`: 러스트에서의 문자열
+- `8_Data_Structure`: 데이터 구조
 
 
 --------

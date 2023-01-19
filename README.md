@@ -22,8 +22,8 @@ Rust 빌드 및 패키지 매니저 Cargo에 대한 설명은 [이 글](https://
 - `2_Types`: 러스트의 변수 타입들 
 - `3_Condition`: 러스트에서의 조건문
 - `4_Iteration`: 러스트에서의 반복문
-- `5_Iteration`: 러스트에서의 참조
-
+- `5_Reference`: 러스트에서의 참조
+- `6_Generic`: 제네릭 함수
 
 
 --------
